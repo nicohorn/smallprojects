@@ -1,4 +1,5 @@
 //Program that checks if two arrays contains a common item. This was done with the purpose of not having a O(a*b) function, but rather a O(n) function to maximize TIME efficiency.
+//Author: Nicolas Horn.
 
 const array1 = ['a','b','c','w'];
 const array2 = ['z','y','w'];
